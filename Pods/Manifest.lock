@@ -1,0 +1,24 @@
+PODS:
+  - GTMRefresh (1.3.9)
+  - HZPlaceHolder/PlaceHolderView (1.0.6)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - GTMRefresh
+  - HZPlaceHolder/PlaceHolderView
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - GTMRefresh
+    - HZPlaceHolder
+    - SnapKit
+
+SPEC CHECKSUMS:
+  GTMRefresh: f69751db662aa6bfce56e4d7a1792ace85afd80e
+  HZPlaceHolder: 726ee7d6cab3b89ff8b23b2e80c0db5eead90a93
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: bd4464e0ab2c0b6b8f1228108d612eb1b9f50c53
+
+COCOAPODS: 1.9.1

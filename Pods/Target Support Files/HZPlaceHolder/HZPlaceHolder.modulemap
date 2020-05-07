@@ -1,0 +1,6 @@
+framework module HZPlaceHolder {
+  umbrella header "HZPlaceHolder-umbrella.h"
+
+  export *
+  module * { export * }
+}
